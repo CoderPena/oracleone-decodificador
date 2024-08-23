@@ -2,7 +2,7 @@
 
 <h2>🔍 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura da formação OracleOne.</p>
-<p>Este projeto codifica e decodifica mensagens a partir do campo de entrada.</p>>
+<p>Este projeto codifica e decodifica mensagens a partir do campo de entrada.</p>
 
 ## 🔧 Tecnologias
 <div>
